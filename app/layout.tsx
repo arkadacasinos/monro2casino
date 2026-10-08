@@ -16,6 +16,7 @@ export default function RootLayout({
   return (
     <html lang="ru">
       <head>
+        <meta name="yandex-verification" content="b0a08a716720883c" />
         <title>Monro Casino — официальный сайт: играть онлайн, рабочее зеркало Монро Казино</title>
         <meta
           name="description"
